@@ -7,6 +7,7 @@ This project is an open source version of my math heavy [Latrix Laser System](ht
 I am the sole owner, creator, and copyright holder of Latrix ("Latrix" or "Latrix Laser System.") Latrix represents the software distributed in the form of a typical unitypackage and/or Unity project. The original version of Latrix will remain *closed source.*
 
 I grant permission to use, distribute, modify, make derivative works, and publish projects using Open-Latrix. The only condition I ask of is to credit this github repository and/or my Gumroad page for Latrix (please and thank ya!)
+Please place said credits where one can easily find it and within or around the space your experience inhabits. Credits must be free of obstruction, easily readible, and accessible to the general public without restriction.
 
 The original distribution of Latrix can be purchased seperately and *can not be redistributed.* This version is a careful reimplementation of the concepts I've come up with regaurding efficient shader raymarching, spanning **two years** of research and development.
 
